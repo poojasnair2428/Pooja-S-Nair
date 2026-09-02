@@ -1,6 +1,6 @@
 # ⚡ Pooja S Nair — Personal Portfolio
 
-A modern, responsive, and performance-optimized personal portfolio for **Pooja S Nair**, an **Electronics and Computer Engineering (ECE)** student at **Saintgits College of Engineering, Kottayam, Kerala**.
+**Pooja S Nair**, an **Electronics and Computer Engineering (ECE)** student at **Saintgits College of Engineering, Kottayam, Kerala**.
 
 Specializing in **Embedded Systems, IoT, and Assistive Technology**.
 
@@ -51,21 +51,6 @@ ece-portfolio/
 ├── style.css         # Responsive styling, Dark/Light mode theme system, animations
 ├── script.js         # Interactive scripts (Typing effect, filter, copy email, theme toggle)
 └── README.md         # Documentation & deployment guide
-```
 
----
-
-## 🌐 Deploy to GitHub Pages (Free)
-
-1. Create a new repository on GitHub (e.g., `poojasnair-portfolio`).
-2. Push your files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit for Pooja S Nair portfolio"
-   git branch -M main
-   git remote add origin https://github.com/poojasnair2428/poojasnair-portfolio.git
-   git push -u origin main
-   ```
 3. Go to repository **Settings** > **Pages** > select **main branch** and **/(root)** > Click **Save**.
 4. Your website will be live at `https://poojasnair2428.github.io/poojasnair-portfolio/`.
